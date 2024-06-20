@@ -1,5 +1,5 @@
 import React from "react";
-import tlweb from "../../assets/tlwebsiteimage.png"
+import tlweb from "../../assets/tlimage.png"
 import IIC from "../../assets/IIC-IITH.png"
 import Micromosue from "../../assets/Micromouse.png"
 const Card = ({ imageSrc, title, description, link }) => {
