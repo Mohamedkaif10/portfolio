@@ -1,4 +1,4 @@
-
+import CardsGrid from "./sections/myprojects/projects";
 
 function App() {
 
@@ -6,8 +6,8 @@ function App() {
   return (
     <>
       <div className="bg-white">
-        <p className='text-black'>something im writing </p>
        
+       <CardsGrid/>
       </div>
     </>
   )
